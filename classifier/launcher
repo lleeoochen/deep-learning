@@ -1,0 +1,2 @@
+python sentiment-classifier.py
+python email_notify.py
